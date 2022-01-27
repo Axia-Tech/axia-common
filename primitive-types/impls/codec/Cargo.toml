@@ -9,7 +9,7 @@ edition = "2021"
 rust-version = "1.56.1"
 
 [dependencies]
-axia-scale-codec = { git = "https://github.com/axia-tech/axia-scale-codec", branch = "master", default-features = false, features = ["max-encoded-len"] }
+axia-scale-codec = { git = "https://github.com/axia-tech/axia-scale-codec", branch = "v2.3.1", default-features = false, features = ["max-encoded-len"] }
 
 [features]
 default = ["std"]
