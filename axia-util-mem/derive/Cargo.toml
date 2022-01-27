@@ -5,7 +5,7 @@ authors = ["AXIA Technologies <sankar.boro@zeeve.io>"]
 license = "MIT OR Apache-2.0"
 description = "Crate for memory reporting"
 repository = "https://github.com/axiatech/pariry-common/axia-util-mem/derive"
-edition = "2021"
+edition = "2018"
 rust-version = "1.56.1"
 
 [lib]

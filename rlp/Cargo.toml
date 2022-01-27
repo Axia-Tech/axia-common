@@ -5,7 +5,7 @@ description = "Recursive-length prefix encoding, decoding, and compression"
 repository = "https://github.com/axia-tech/axia-common"
 license = "MIT OR Apache-2.0"
 authors = ["AXIA Technologies <sankar.boro@zeeve.io>"]
-edition = "2021"
+edition = "2018"
 rust-version = "1.56.1"
 
 [dependencies]

@@ -7,7 +7,7 @@ name = "uint"
 version = "0.9.1"
 authors = ["AXIA Technologies <sankar.boro@zeeve.io>"]
 readme = "README.md"
-edition = "2021"
+edition = "2018"
 rust-version = "1.56.1"
 
 [dependencies]

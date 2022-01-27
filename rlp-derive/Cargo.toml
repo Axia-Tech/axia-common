@@ -5,7 +5,7 @@ authors = ["AXIA Technologies <sankar.boro@zeeve.io>"]
 license = "MIT OR Apache-2.0"
 description = "Derive macro for #[derive(RlpEncodable, RlpDecodable)]"
 homepage = "http://axiacoin.network"
-edition = "2021"
+edition = "2018"
 rust-version = "1.56.1"
 
 [lib]

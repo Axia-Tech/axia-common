@@ -4,7 +4,7 @@ description = "Fuzzers for uint algorithms"
 publish = false
 version = "0.1.0"
 authors = ["AXIA Technologies <sankar.boro@zeeve.io>"]
-edition = "2021"
+edition = "2018"
 rust-version = "1.56.1"
 
 [package.metadata]
