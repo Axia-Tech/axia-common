@@ -1,6 +1,6 @@
 [package]
 name = "axia-util-mem"
-version = "0.10.2"
+version = "0.1.0"
 authors = ["AXIA Technologies <sankar.boro@zeeve.io>"]
 repository = "https://github.com/axia-tech/axia-common"
 description = "Collection of memory related utilities"

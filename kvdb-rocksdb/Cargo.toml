@@ -22,7 +22,7 @@ parking_lot = "0.11.1"
 regex = "1.3.1"
 rocksdb = { version = "0.17", features = ["snappy"], default-features = false }
 owning_ref = "0.4.0"
-axia-util-mem = { path = "../axia-util-mem", version = "0.10.2", default-features = false, features = ["std", "smallvec"] }
+axia-util-mem = { path = "../axia-util-mem", version = "0.1.0", default-features = false, features = ["std", "smallvec"] }
 
 [dev-dependencies]
 alloc_counter = "0.0.4"
