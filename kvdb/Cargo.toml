@@ -10,4 +10,4 @@ rust-version = "1.56.1"
 
 [dependencies]
 smallvec = "1.0.0"
-axia-util-mem = { path = "../axia-util-mem", version = "0.10", default-features = false }
+axia-util-mem = { path = "../axia-util-mem", version = "0.10.2", default-features = false }
